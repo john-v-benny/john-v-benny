@@ -28,12 +28,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 
----
-
-## 📈 GitHub Stats
-
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnvb&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnvb&layout=compact&theme=radical)
 
 ---
 
